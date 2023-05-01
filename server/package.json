@@ -1,0 +1,36 @@
+{
+  "name": "impact-week",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bootstrap-icons": "^1.10.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-validator": "^6.15.0",
+    "jquery": "^3.6.4",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.1",
+    "multer": "^1.4.5-lts.1",
+    "nl2br": "^0.0.3",
+    "paginationjs": "^2.5.1",
+    "socket.io": "^4.6.1",
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/cookie-parser": "^1.4.3",
+    "@types/jsonwebtoken": "^9.0.1",
+    "@types/validator": "^13.7.13"
+  }
+}
